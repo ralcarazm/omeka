@@ -36,7 +36,8 @@
 * [For enthusiasts](https://info.omeka.net/omeka-net-help/use-case-enthusiasts/)
 * [For museum professionals](https://info.omeka.net/omeka-net-help/use-case-museum-professional/)
 * [for eduators](https://info.omeka.net/omeka-net-help/use-case-educators/)
-* [for eduators for librarians for scholar]()
+* [For librarians](https://info.omeka.net/omeka-net-help/use-case-librarians/)
+* [For scholars](https://info.omeka.net/omeka-net-help/use-case-scholars/)
 
 
 recursos
