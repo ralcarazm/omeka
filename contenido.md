@@ -10,26 +10,35 @@
 ## Estudio de casos
 ### Repositorios
 * [L'Arxiu de la paraula](http://arxiudigital.ateneubcn.org/)
-* []()
-* []()
+* [Université Rennes 2 Collections numérisées](http://bibnum.univ-rennes2.fr/)
 ### Archivos e historia local
-* []()
-* []()
-* []()
+* [Southwest Harbor Public Library Digital Archive](http://swhplibrary.net/home/)
+* [Cleveland Historical](https://clevelandhistorical.org/)
 ### Exposiciones virtuales
-* []()
+* [Digital Public Library of America Exhibits](https://dp.la/exhibitions)
 * []()
 * []()
 ### Narrativas rich media
-* []()
-* []()
-* []()
+* [Building History](http://buildinghistory.iit.edu/)
+* [Frontier to Heartland](https://publications.newberry.org/frontiertoheartland/)
 ### Crowdsourcing y cocreación
-* []()
-* []()
-* []()
+* [Hurricane MemoryBank](http://hurricanearchive.org/)
+* [Battersea Arts Centre Digital Archive](http://www.bacarchive.org.uk/)
+* [Virginia Memory Transcribe](http://www.virginiamemory.com/transcribe/)
 
 ### Omeka.net
-#### Guías
+#### Casos de estudio
+* [Omeka.net use cases](https://info.omeka.net/use-cases/)
 
-https://info.omeka.net/use-cases/
+#### Guías
+  
+* [For archivists](https://info.omeka.net/omeka-net-help/use-case-archivists/)
+* [For enthusiasts](https://info.omeka.net/omeka-net-help/use-case-enthusiasts/)
+* [For museum professionals](https://info.omeka.net/omeka-net-help/use-case-museum-professional/)
+* [for eduators](https://info.omeka.net/omeka-net-help/use-case-educators/)
+* [for eduators for librarians for scholar]()
+
+
+recursos
+* [Curate Escape](https://curatescape.org/)
+
