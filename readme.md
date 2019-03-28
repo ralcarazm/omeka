@@ -4,9 +4,7 @@
 * [Parte 1. Arquitectura, funcionalidades y estudio de casos](https://www.dropbox.com/s/mxigjxdtt09dncn/omeka_classic_1part.pdf?dl=0)
 * [Parte 2. Instalación, configuración y gestión del repositorio](https://www.dropbox.com/s/ezxii505pib857u/omeka_classic_2part.pdf?dl=0)
 * [Parte 3. Temas y plugins](https://www.dropbox.com/s/b9p1r55i8x8cf6v/omeka_classic_3part.pdf?dl=0)
-
 * [Omeka 2: manual de usuario](http://www.rubenalcaraz.es/manual-omeka/)
-
 ## Estudio de casos
 ### Repositorios
 * [L'Arxiu de la paraula](http://arxiudigital.ateneubcn.org/)
@@ -25,9 +23,14 @@
 * [Hurricane MemoryBank](http://hurricanearchive.org/)
 * [Battersea Arts Centre Digital Archive](http://www.bacarchive.org.uk/)
 * [Virginia Memory Transcribe](http://www.virginiamemory.com/transcribe/)
-
+### Sitios creados con Omeka.net (plan gratuito)
+* [Radio LH: 30 anys de comunicació](https://radiolh30anys.omeka.net/)
+* [Nihonmachi: a digital exhibit on northern California's japantowns](https://japantowns.omeka.net/)
+* []()
+### Otros proyectos en España
+* [Mapa del software libre](http://www.cobdc.net/mapasoftwarelibre/omeka/)
 ### Omeka.net
-#### Características de la cuenta gratuita
+#### Características del plan gratuito
 * 500 MB de almacenamiento
 * 4 temas (Berlin, Rhythm, Season y Minimalist)
 * 14 plugins (CoinS, CSV import, Exhibit builder, GoogleAnalytics, Hide Elements, LC Suggest, Locale, OAI Harvester, Omeka API import, PDF Embed, Reports, Shared Shelf Link, Simple PAges y Social Bookmarking)
