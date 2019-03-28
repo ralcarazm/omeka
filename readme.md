@@ -5,6 +5,7 @@
 * [Parte 2. Instalación, configuración y gestión del repositorio](https://www.dropbox.com/s/ezxii505pib857u/omeka_classic_2part.pdf?dl=0)
 * [Parte 3. Temas y plugins](https://www.dropbox.com/s/b9p1r55i8x8cf6v/omeka_classic_3part.pdf?dl=0)
 * [Omeka 2: manual de usuario](http://www.rubenalcaraz.es/manual-omeka/)
+* [Documentación oficial](https://omeka.org/classic/docs/)
 ## Estudio de casos
 ### Repositorios
 * [L'Arxiu de la paraula](http://arxiudigital.ateneubcn.org/)
@@ -54,3 +55,11 @@
 ## Temas
 * [Omeka Classis Themes](https://omeka.org/classic/themes/)
 * [Recopilación de temas por Daniel KM (no todos oficiales)](https://daniel-km.github.io/UpgradeToOmekaS/omeka_themes.html)
+
+## Canales oficiales de información sobre Omeka
+* [Blog](https://omeka.org/news/)
+* [Twitter](https://twitter.com/omeka)
+* [Facebook](https://www.facebook.com/OmekaRRCHNM/)
+
+
+
