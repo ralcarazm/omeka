@@ -14,8 +14,6 @@
 * [Cleveland Historical](https://clevelandhistorical.org/)
 ### Exposiciones virtuales
 * [Digital Public Library of America Exhibits](https://dp.la/exhibitions)
-* []()
-* []()
 ### Narrativas rich media
 * [Building History](http://buildinghistory.iit.edu/)
 * [Frontier to Heartland](https://publications.newberry.org/frontiertoheartland/)
@@ -26,7 +24,6 @@
 ### Sitios creados con Omeka.net (plan gratuito)
 * [Radio LH: 30 anys de comunicació](https://radiolh30anys.omeka.net/)
 * [Nihonmachi: a digital exhibit on northern California's japantowns](https://japantowns.omeka.net/)
-* []()
 ### Otros proyectos en España
 * [Mapa del software libre](http://www.cobdc.net/mapasoftwarelibre/omeka/)
 ### Omeka.net
@@ -47,7 +44,6 @@
 * [For librarians](https://info.omeka.net/omeka-net-help/use-case-librarians/)
 * [For scholars](https://info.omeka.net/omeka-net-help/use-case-scholars/)
 
-
-recursos
+#### Recursos
 * [Curate Escape](https://curatescape.org/)
 
