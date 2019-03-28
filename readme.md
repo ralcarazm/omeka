@@ -6,6 +6,8 @@
 * [Parte 3. Temas y plugins](https://www.dropbox.com/s/b9p1r55i8x8cf6v/omeka_classic_3part.pdf?dl=0)
 * [Omeka 2: manual de usuario](http://www.rubenalcaraz.es/manual-omeka/)
 * [Documentación oficial](https://omeka.org/classic/docs/)
+* [Instalación Xampp (entorno necesario para ejecutar Omeka (vídeo)](https://youtu.be/ye-ZkYtJnsE)
+* [Instalación Omeka (vídeo)](https://youtu.be/3-bvDP9RmoI)
 ## Estudio de casos
 ### Repositorios
 * [L'Arxiu de la paraula](http://arxiudigital.ateneubcn.org/)
