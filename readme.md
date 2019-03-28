@@ -47,3 +47,10 @@
 #### Recursos
 * [Curate Escape](https://curatescape.org/)
 
+## Plugins
+* [Omeka Classic Plugins](https://omeka.org/classic/plugins/)
+* [Recopilación de plugins por Daniel KM (no todos oficiales)](https://daniel-km.github.io/UpgradeToOmekaS/omeka_plugins.html)
+
+## Temas
+* [Omeka Classis Themes](https://omeka.org/classic/themes/)
+* [Recopilación de temas por Daniel KM (no todos oficiales)](https://daniel-km.github.io/UpgradeToOmekaS/omeka_themes.html)
