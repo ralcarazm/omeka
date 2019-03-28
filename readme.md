@@ -56,10 +56,11 @@
 * [Omeka Classis Themes](https://omeka.org/classic/themes/)
 * [Recopilación de temas por Daniel KM (no todos oficiales)](https://daniel-km.github.io/UpgradeToOmekaS/omeka_themes.html)
 
-## Canales oficiales de información sobre Omeka
+## Canales oficiales de información y soporte sobre Omeka
 * [Blog](https://omeka.org/news/)
 * [Twitter](https://twitter.com/omeka)
 * [Facebook](https://www.facebook.com/OmekaRRCHNM/)
+* [Omeka Classic Forum](https://forum.omeka.org/c/omeka-classic)
 
 
 
