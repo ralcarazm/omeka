@@ -27,6 +27,11 @@
 * [Virginia Memory Transcribe](http://www.virginiamemory.com/transcribe/)
 
 ### Omeka.net
+#### Características de la cuenta gratuita
+* 500 MB de almacenamiento
+* 4 temas (Berlin, Rhythm, Season y Minimalist)
+* 14 plugins (CoinS, CSV import, Exhibit builder, GoogleAnalytics, Hide Elements, LC Suggest, Locale, OAI Harvester, Omeka API import, PDF Embed, Reports, Shared Shelf Link, Simple PAges y Social Bookmarking)
+
 #### Casos de estudio
 * [Omeka.net use cases](https://info.omeka.net/use-cases/)
 
