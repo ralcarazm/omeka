@@ -23,9 +23,9 @@
 * [Digital Public Library of America Exhibits](https://dp.la/exhibitions)
 ### Digital Scholarship
 * [Frontier to Heartland](https://publications.newberry.org/frontiertoheartland/)
-+ [From farms to freeways: women's memories of Western Sydney](http://omeka.uws.edu.au/farmstofreeways/)
-+ [New roots = Nuevas raíces](https://newroots.lib.unc.edu/)
-+ [Intemperance: a digital project archiving cocktail culture in the city of New Orleans](http://intemperance.org/)
+* [From farms to freeways: women's memories of Western Sydney](http://omeka.uws.edu.au/farmstofreeways/)
+* [New roots = Nuevas raíces](https://newroots.lib.unc.edu/)
+* [Intemperance: a digital project archiving cocktail culture in the city of New Orleans](http://intemperance.org/)
 ### Narrativas rich media
 * [Building History](http://buildinghistory.iit.edu/)
 ### Crowdsourcing y cocreación
