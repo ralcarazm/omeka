@@ -18,13 +18,21 @@
 * [Cleveland Historical](https://clevelandhistorical.org/)
 ### Exposiciones virtuales
 * [Digital Public Library of America Exhibits](https://dp.la/exhibitions)
+### Digital Scholarship
+* [Frontier to Heartland](https://publications.newberry.org/frontiertoheartland/)
++ []()
++ []()
 ### Narrativas rich media
 * [Building History](http://buildinghistory.iit.edu/)
-* [Frontier to Heartland](https://publications.newberry.org/frontiertoheartland/)
+
 ### Crowdsourcing y cocreación
 * [Hurricane MemoryBank](http://hurricanearchive.org/)
 * [Battersea Arts Centre Digital Archive](http://www.bacarchive.org.uk/)
 * [Virginia Memory Transcribe](http://www.virginiamemory.com/transcribe/)
+### Docencia
++ [Fifteenth-Century Italian Art](http://www.quattrocentoitalia.artinterp.org/omeka/)
++ [Goin' north](https://goinnorth.org/)
+* [Ice Age flood explorer](http://floodexplorer.org)
 ### Sitios creados con Omeka.net (plan gratuito)
 * [Radio LH: 30 anys de comunicació](https://radiolh30anys.omeka.net/)
 * [Nihonmachi: a digital exhibit on northern California's japantowns](https://japantowns.omeka.net/)
