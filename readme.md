@@ -59,8 +59,9 @@
 * [For librarians](https://info.omeka.net/omeka-net-help/use-case-librarians/)
 * [For scholars](https://info.omeka.net/omeka-net-help/use-case-scholars/)
 
-#### Recursos
-* [Curate Escape](https://curatescape.org/)
+#### Recopilaciones de recursos
+* [Common tools for teaching & learning DH: Omeka](https://guides.nyu.edu/teachdh/omeka)
+* [Getting started with Omeka](http://libguides.wooster.edu/c.php?g=629900&p=4396888)
 
 ## Plugins
 * [Omeka Classic Plugins](https://omeka.org/classic/plugins/)
@@ -69,6 +70,9 @@
 ## Temas
 * [Omeka Classic Themes](https://omeka.org/classic/themes/)
 * [Recopilación de temas por Daniel KM (no todos oficiales)](https://daniel-km.github.io/UpgradeToOmekaS/omeka_themes.html)
+
+## Frameworks
+* [Curate Escape](https://curatescape.org/)
 
 ## Canales oficiales de información y soporte sobre Omeka
 * [Blog](https://omeka.org/news/)
